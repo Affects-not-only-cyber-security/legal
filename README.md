@@ -3,7 +3,7 @@
 Rechtstexte der **Anocs KG** (FN 604478 p, Handelsgericht Wien), wie sie auf ihren Websites
 veröffentlicht sind, mit nachvollziehbarer Versionsgeschichte.
 
-Stand: 2. November 2026 · noch keine Fassung veröffentlicht
+Stand: 2. November 2026 · aktuelle Fassung: `v2026.11.0`
 
 ## Welche Fassung gilt
 
@@ -21,11 +21,11 @@ Fassung wann galt und was sich geändert hat:
 Unternehmensweite Texte liegen im Wurzelverzeichnis, Texte für eine Website in einem Ordner
 mit deren Namen:
 
-| Datei | Inhalt |
-|---|---|
-| `agb.md` | Allgemeine Geschäftsbedingungen |
-| `anocs.at/impressum.md` | Impressum und Offenlegung für www.anocs.at |
-| `anocs.at/datenschutz.md` | Datenschutzerklärung für www.anocs.at |
+| Datei | Inhalt | Stand |
+|---|---|---|
+| [`agb.md`](agb.md) | Allgemeine Geschäftsbedingungen | gültig ab 2. November 2026 |
+| `anocs.at/impressum.md` | Impressum und Offenlegung für www.anocs.at | folgt |
+| `anocs.at/datenschutz.md` | Datenschutzerklärung für www.anocs.at | folgt |
 
 Jede Datei beginnt mit den Angaben zur Fassung, die auch die Website anzeigt:
 
