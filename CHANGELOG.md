@@ -4,6 +4,18 @@ Format: [Keep a Changelog](https://keepachangelog.com/de/1.1.0/) · Versionierun
 
 ## [Unreleased]
 
+## [2026.11.1] – 2026-11-04
+
+### Added
+
+- Impressum (`anocs.at/impressum.md`) und Datenschutzerklärung (`anocs.at/datenschutz.md`) für
+  www.anocs.at, gültig ab 2. November 2026.
+- Nutzungsrechte in `LICENSE.md`.
+
+### Changed
+
+- README: alle Texte im Aufbau, Hinweis auf PDF im Release und auf unveränderliche Releases.
+
 ## [2026.11.0] – 2026-11-02
 
 ### Added
